@@ -1,5 +1,5 @@
 {
-  "name":"DevFest Jakarta",
+  "name":"DevFest Baku",
   "cover_image":"cover.png",
   "desc": {
     "short": "An annual event hosted by the Google Developers Group across the world to bring the technology closer to the developers. It is an all day developer conference where we aim to focus on multiple technologies through lightning talks, sessions, workshops, etc.",
@@ -7,19 +7,19 @@
   },
   "hashtags": [
     "DevFest2023",
-    "CommunityName"
+    "GDGBaku"
   ],
-  "date": "Oct 23, 2023",
-  "time": "10 am IST",
+  "date": "Nov 4, 2023",
+  "time": "11 am GPT+4",
   "venue": {
-    "name": "Hotel Name",
-    "address": "23b, Morden Town",
-    "city": "",
+    "name": "ADA University",
+    "address": "61 Ahmadbay Agha-Oglu Street",
+    "city": "Baku",
     "pincode": "",
     "map": ""
   },
-  "registration": {
-    "link":"https://techferment.com",
+  "ticket": {
+    "link":"https://iticket.az",
     "status": "1"
   },
   "call_for_speakers": {
@@ -38,7 +38,7 @@
     },
     {
       "name": "Participants",
-      "value": "500+"
+      "value": "250+"
     },
     {
       "name": "Sessions",
