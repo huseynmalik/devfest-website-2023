@@ -8,9 +8,9 @@
             DevFest Badge
           </p>
           <p class="my-0 mb-8 h1-subheading google-font">
-            Now that you are here, how about personalising your DevFest India
-            2023 profile? Upload an image and generate a personalised badge with
-            the DevFest India 2023 frame. Also share your image using
+            Now that you are here, how about personalising your DevFest Baku
+            2023 profile Upload an image and generate a personalised badge with
+            the DevFest 2023 Baku frame. Also share your image using
             #DevFestIndia on different social platforms.
           </p>
         </v-col>
@@ -28,9 +28,9 @@
               DevFest Badge
             </p>
             <p class="google-font" style="font-size: 18px">
-              Now that you are here, how about personalising your DevFest India
+              Now that you are here, how about personalising your DevFest Baku
               2023 profile? Upload an image and generate a personalised badge
-              with the DevFest India 2023 frame. Also share your image using
+              with the DevFest Baku 2023 frame. Also share your image using
               #DevFestIndia on different social platforms.
             </p>
           </div>
@@ -141,7 +141,7 @@ export default {
     banner: null,
   }),
   created() {
-    document.title = "Badges | DevFest India 2023";
+    document.title = "Badges | DevFest Baku 2023";
   },
   methods: {
     upload(e) {
