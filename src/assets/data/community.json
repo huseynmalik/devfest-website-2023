@@ -1,14 +1,14 @@
 {
-    "community_name": "GDG Jakarta",
-    "city": "Jakarta",
-    "community_url": "https://gdg.community.dev/gdg-jakarta",
+    "community_name": "GDG Baku",
+    "city": "Baku",
+    "community_url": "https://gdg.community.dev/gdg-baku",
     "short_desc": "",
-    "community_hashtag":"GDGJakarta",
+    "community_hashtag":"GDGBaku",
     "social_links":{
-        "twitter":"a",
-        "linkedin": "v",
-        "instagram":"x",
+        "twitter":"",
+        "linkedin": "https://www.linkedin.com/company/gdgbaku/",
+        "instagram":"https://www.instagram.com/gdg.baku/",
         "facebook": "d",
-        "youtube": "e"
+        "youtube": "https://www.youtube.com/@gdgbaku"
     }
 }
